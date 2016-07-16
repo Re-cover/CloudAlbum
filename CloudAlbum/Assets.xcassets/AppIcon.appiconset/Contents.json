@@ -1,0 +1,68 @@
+{
+  "images" : [
+    {
+      "size" : "16x16",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_16_0_633aaf_none.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "16x16",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_32_0_633aaf_none.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_32_0_633aaf_none-1.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_64_0_633aaf_none.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "128x128",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_128_0_633aaf_none.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "128x128",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_256_0_633aaf_none.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "256x256",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_256_0_633aaf_none-1.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "256x256",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_512_0_633aaf_none.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_512_0_633aaf_none-1.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "foundation-icon-fonts_2015-02-16_upload-cloud_1024_0_633aaf_none.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
